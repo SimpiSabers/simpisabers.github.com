@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In a galaxy 
+title: In a Galaxy 
 tagline: far far away...
 ---
 {% include JB/setup %}
